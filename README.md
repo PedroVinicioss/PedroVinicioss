@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVinicioss&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/PedroVinicioss/github-readme-stats)
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PedroVinicioss&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PedroVinicioss&theme=tokyonight)](https://git.io/streak-stats)
 
 ### Tecnologias que eu uso e estudo no meu dia
 <div style="display: inline_block">
