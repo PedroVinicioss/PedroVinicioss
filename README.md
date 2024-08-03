@@ -2,13 +2,10 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_vinicios2/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-vinicios-de-oliveira-ribeiro-dos-santos-a24488230/)
-
-<!--   
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVinicioss&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVinicioss&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/PedroVinicioss/github-readme-stats)
--->
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PedroVinicioss&theme=tokyonight)](https://git.io/streak-stats)
+ 
+  <a href="https://git.io/streak-stats">
+    <img alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=PedroVinicioss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"/>
+  </a>
 
 ### Tecnologias que eu uso e estudo no meu dia
 <div style="display: inline_block">
