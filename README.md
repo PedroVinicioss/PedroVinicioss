@@ -3,7 +3,7 @@
 Apaixonado por tecnologia e por resolver problemas através da programação.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_vinicios2/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-vinicios-de-oliveira-ribeiro-dos-santos-a24488230/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vinicios/)
  
 <a href="https://git.io/streak-stats">
   <img alt="GitHub Streak Stats" src="http://github-readme-streak-stats.herokuapp.com?user=PedroVinicioss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br&background=DD272700"/>
