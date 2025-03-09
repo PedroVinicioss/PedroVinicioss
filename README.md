@@ -1,9 +1,8 @@
-# Olá! Eu sou o Pedro Vinicios ✌🏻  
+# Olá! Eu sou o Pedro Vinicios ✌🏻  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_vinicios2/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vinicios/) 
 
 Apaixonado por tecnologia e por transformar ideias em soluções através da programação. Meu foco é desenvolver sistemas eficientes, escaláveis e bem estruturados. Sempre buscando aprender e evoluir, acredito no poder da colaboração e da inovação para criar um impacto positivo no mundo.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedro_vinicios2/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-vinicios/) 
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -12,14 +11,16 @@ Apaixonado por tecnologia e por transformar ideias em soluções através da pro
 </p>
 
 
----
-
 ## 🚀 Tecnologias que fazem parte do meu dia a dia
 
-<div style="font-size: 18px; font-family: Arial, sans-serif;">
-  🖥️ C# &nbsp;&nbsp;|&nbsp;&nbsp;
-  🗄️ SQL Server &nbsp;&nbsp;|&nbsp;&nbsp;
-  🏗️ Entity Framework Core &nbsp;&nbsp;|&nbsp;&nbsp;
-  🌐 .NET Core / ASP.NET Core &nbsp;&nbsp;|&nbsp;&nbsp;
-  🛠️ Web API
-</div>
+<p align="center">
+  <strong><span style="font-size: 18px; font-family: Arial, sans-serif;">
+    🖥️ C# &nbsp;&nbsp;|&nbsp;&nbsp;
+    🗄️ SQL Server &nbsp;&nbsp;|&nbsp;&nbsp;
+    🏗️ Entity Framework Core &nbsp;&nbsp;|&nbsp;&nbsp;
+    🌐 .NET Core / ASP.NET Core &nbsp;&nbsp;|&nbsp;&nbsp;
+    🛠️ Web API &nbsp;&nbsp;|&nbsp;&nbsp;
+    ⚛️ React.js
+  </span></strong>
+</p>
+
