@@ -10,7 +10,7 @@ Apaixonado por tecnologia e por transformar ideias em soluções através da pro
   </a>
 </p>
 
-
+ <!--
 ## 🚀 Tecnologias que fazem parte do meu dia a dia
 
 <p align="center">
